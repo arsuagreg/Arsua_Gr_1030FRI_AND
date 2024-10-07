@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Arsua_BtmNav</string>
+
+    <string-array name="hobbies_array">
+        <item>Reading</item>
+        <item>Cooking</item>
+        <item>Traveling</item>
+        <item>Photography</item>
+        <item>Sports</item>
+        <item>Music</item>
+    </string-array>
+</resources>
